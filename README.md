@@ -6,7 +6,7 @@ Currently, I’m expanding my expertise in Business Intelligence Analytics throu
 
 Feel free to browse my repositories to see the projects I’m working on! I’m always open to new collaborations and discussions on how data can be leveraged to create meaningful business solutions.
 
-You can contact me at BrandonWoolfolk03@outlook.com or connect with me on LinkedIn.</p><p align='left'> You can view my resume <a href='https://1drv.ms/w/c/de1d2538f4f4a39f/ESOY906Qj2NDrzwZ3iqd1kwB3VpfT7leCJ4Fx3PTOxinWA?e=PeuY27 ' target=_blank><u>here</u>.</a></p>
+You can contact me at BrandonWoolfolk03@outlook.com or connect with me on LinkedIn.</p><p align='left'> You can view my resume <a href='[https://1drv.ms/w/c/de1d2538f4f4a39f/ESOY906Qj2NDrzwZ3iqd1kwB3VpfT7leCJ4Fx3PTOxinWA?e=PeuY27](https://1drv.ms/w/c/de1d2538f4f4a39f/IQBReIW9NAgjRoMpKVMejNG9AUAebFYly7D1ouhBYRSvA4c) ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=BrandonWoolfolk alt=BrandonWoolfolk /> </p>
 
